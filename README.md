@@ -7,7 +7,7 @@ Con esta aplicación queremos que el usuario tenga el conocimiento de la ruta qu
 Running on OpenShift:
 ----------------------------
 
-El usuario accede mediante la web a la apliación, que aparecerá con dos menús a elegir, ambos te permiten el calculo de rutas alternativas y te muestra el resultado con un mapa gráfico señalando la ruta con una linea y los diferentes pasos que tiene que dar para llegar a su destino.
+El usuario accede mediante la web a la aplicación, que aparecerá con dos menús a elegir, ambos te permiten el calculo de rutas alternativas y te muestra el resultado con un mapa gráfico señalando la ruta con una linea y los diferentes pasos que tiene que dar para llegar a su destino.
 
 
 APIS utilizadas:
